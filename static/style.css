@@ -1,0 +1,16 @@
+.bg-carev2 {
+    background-color: rgb(77, 77, 77);
+    color: seashell;
+}
+
+.bg-carev {
+    background-color: rgb(127, 0, 255);
+}
+
+.mt-2 {
+    margin-top: 2rem;
+}
+
+td {
+    border-right: 2px solid seashell !important;
+}
